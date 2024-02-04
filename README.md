@@ -1,2 +1,2 @@
-# error
+# Error
 Java, Thymeleaf
